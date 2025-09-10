@@ -1,0 +1,23 @@
+li{
+  /*  list-style-type: decimal;*/
+     text-align: center;
+     list-style-position:inside;
+       margin-top :32px;
+    margin-bottom:32px;
+    padding-left: 1.5rem;
+ /*  border:5px solid  blackwish blue */
+}
+
+ul{
+ list-style-type: square;
+ /* border:5px solid green; */
+ color:blackwish blue
+
+}
+
+li{
+/*incline-height:16px; */
+margin-bottom: 16px;
+  /*  border:3px solid red */
+}
+ 

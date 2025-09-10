@@ -1,0 +1,51 @@
+body{
+font-size:24px;
+}
+
+ul{
+    list-style-type:disc;
+    color:blackish blue
+}
+h1,h2{
+    color:blue;
+}
+p{
+    color:purple;
+}
+
+.gray{
+    color:gray;
+
+}
+#second{
+    font-size:italic;
+}
+
+.highlighted{
+     text-transform: uppercase;
+    color:gold;
+}
+
+.job-role{
+    display: flex;
+    flex-direction:column;
+    width: fit-content;
+    border: green 2px solid;
+}
+
+#name{
+    color: violet;
+}
+
+#title{
+    color: blue;
+}
+
+.underline{
+    border: red 4px solid;
+}
+
+.highlighted-text{
+     text-transform: uppercase;
+    background-color:gold;
+}
