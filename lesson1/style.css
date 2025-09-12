@@ -49,3 +49,10 @@ p{
      text-transform: uppercase;
     background-color:gold;
 }
+.icons{
+        font-size: 20px;
+            color: #ffcc00; /* Yellowish for icons, adjust as needed */
+            margin-bottom: 20px;
+        }
+          
+}
